@@ -1,8 +1,4 @@
-# React + Vite
+Desafio:
+Crea una aplicación web simple en React que muestre una lista de productos con sus respectivos precios.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+En esta app cree una aplicacion utilizando react que retorna una lista de producots con sus precios ademas de una imagen y una descipcion, le coloque un poco de estilos utilizando bootstrap para simplificar la creacion de estos, y luego decidi utilizar una api que ya cuenta con estos productos para hacer pruebas, la api es la siguiente:https://fakestoreapi.com/
